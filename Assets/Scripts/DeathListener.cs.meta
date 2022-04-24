@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5a6ef425143bdc64caefa34e9f3e71e2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bloodParticle: {fileID: 6232578273536793389, guid: a6991e6576476154b83f3e3f457a19eb, type: 3}
+  - deathSound: {instanceID: 0}
+  - speaker: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
